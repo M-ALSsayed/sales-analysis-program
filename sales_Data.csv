@@ -1,0 +1,31 @@
+order_id,date,product,category,price,quantity
+1,2024-01-05,Laptop,Electronics,1000,2
+2,2024-01-07,Phone,Electronics,500,1
+3,2024-01-10,Headphones,Accessories,100,5
+4,2024-01-12,Monitor,Electronics,300,3
+5,2024-01-14,Keyboard,Accessories,50,4
+6,2024-01-15,Mouse,Accessories,30,6
+7,2024-01-18,Smartwatch,Electronics,200,3
+8,2024-01-20,Tablet,Electronics,400,2
+9,2024-01-22,USB Cable,Accessories,10,10
+10,2024-01-25,Webcam,Accessories,80,4
+11,2024-01-28,External HDD,Storage,120,2
+12,2024-02-01,SSD,Storage,150,3
+13,2024-02-04,Graphics Card,Electronics,700,1
+14,2024-02-07,Power Bank,Accessories,40,5
+15,2024-02-10,Wireless Charger,Accessories,25,4
+16,2024-02-13,Router,Electronics,120,2
+17,2024-02-15,VR Headset,Electronics,500,1
+18,2024-02-18,Desk Lamp,Home & Office,45,3
+19,2024-02-20,Office Chair,Furniture,150,1
+20,2024-02-22,Portable Speaker,Accessories,80,4
+21,2024-02-25,Smart TV,Electronics,900,1
+22,2024-02-28,Game Console,Electronics,400,2
+23,2024-03-02,Microphone,Accessories,70,3
+24,2024-03-05,Projector,Electronics,350,1
+25,2024-03-07,Coffee Maker,Home & Office,100,2
+26,2024-03-10,Electric Kettle,Home & Office,40,3
+27,2024-03-12,Wireless Earbuds,Accessories,60,4
+28,2024-03-15,Drone,Electronics,800,1
+29,2024-03-18,Mechanical Keyboard,Accessories,120,2
+30,2024-03-20,Smart Light,Home & Office,30,5
